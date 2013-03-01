@@ -1,0 +1,7 @@
+userid=egis1/Tubc510Cbcn 
+file='S:\Asteros Devel\Oracle_db\egis20121128.dmp'
+fromuser=egis1 
+touser=egis1 
+buffer=44886502
+log=c:\oracle_imp\imp1_log.txt
+
